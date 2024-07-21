@@ -10,7 +10,7 @@ redirect_from:
 <meta charset="utf-8">
 
 # Biography
-Weclome to my cabin! I am currently pursuing my Master's degree at the School of Artificial Intelligence, Optics and Electronics (iOPEN) in Northwestern Polytechnical University, supervised by [Prof. Zhen Wang](https://iopen.nwpu.edu.cn/info/1329/1369.htm).
+Hi! I am currently pursuing my Master's degree at the School of Artificial Intelligence, Optics and Electronics (iOPEN) in Northwestern Polytechnical University, supervised by [Prof. Zhen Wang](https://iopen.nwpu.edu.cn/info/1329/1369.htm).
 
 I received my Bachelor's degree in computer science at Harbin Engineering University in June 2022. Previously, I worked closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab for seven months. And I also interned at Tencent AI Lab for three months, mainly focusing on designing anthropomorphic game AI bots via Reinforcement Learning.
 
