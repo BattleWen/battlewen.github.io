@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaoyu Wen/Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaoyu Wen"
-description              : &description "Graduate student from Northwestern Polytechnical University(NWPU)"
+description              : &description "2nd year Graduate student from Northwestern Polytechnical University"
 url                      : https://battlewen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BattleWen/battlewen.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiaoyu Wen"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year graduate student at Northwestern Polytechnical University(NWPU)"
+  bio              : "Graduate student at Northwestern Polytechnical University"
   location         : "Xi'an"
   employer         : # "Red Brick University"
   uri              : # URL
