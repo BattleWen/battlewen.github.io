@@ -15,7 +15,7 @@ author_profile: true
 
 <em>ICML</em>, 2024
 
-<a href="https://arxiv.org/pdf/2305.18459">pdf</a> | <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
+<a href="https://arxiv.org/pdf/2405.06192">pdf</a> | <a href="https://github.com/BattleWen/IGDF">code</a>
 </div>
 </div>
 
@@ -27,6 +27,6 @@ author_profile: true
 
 <em>JAIR(under review)</em>, 2024
 
-<a href="https://arxiv.org/pdf/2309.16973">pdf</a> | <a href="https://risk-averse-locomotion.github.io/">webpage</a>
+<a href="https://arxiv.org/pdf/2309.16973">pdf</a> | <a href="https://github.com/BattleWen/RO2O">code</a>
 </div>
 </div>
