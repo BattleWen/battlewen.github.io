@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/IGDF.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/method.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <strong><a href="https://arxiv.org/pdf/2405.06192">Contrastive representation for data filtering in cross-domain offline reinforcement learning</a></strong>
 
