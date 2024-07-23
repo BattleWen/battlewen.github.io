@@ -12,9 +12,9 @@ redirect_from:
 # Biography
 Hi! I am currently pursuing my Master's degree at the School of Artificial Intelligence, Optics and Electronics (iOPEN) in Northwestern Polytechnical University, supervised by [Prof. Zhen Wang](https://iopen.nwpu.edu.cn/info/1329/1369.htm).
 
-I received my Bachelor's degree in computer science at Harbin Engineering University in June 2022. Previously, I worked closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab for seven months. And I also interned at Tencent AI Lab for three months, mainly focusing on designing anthropomorphic game AI bots via Reinforcement Learning.
+I received my Bachelor's degree in computer science at Harbin Engineering University in June 2022. Previously, I worked closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab for seven months. And I also interned at Tencent AI Platform Department for three months, mainly focusing on designing anthropomorphic game AI bots via Reinforcement Learning.
 
-<a href='../files/CV_Xiaoyu Wen.pdf'><img src="https://img.shields.io/badge/-Xiaoyu's CV-299DE7?logo=gitbook&logoColor=white"></a>
+<a href='../files/CV_XiaoyuWen.pdf'><img src="https://img.shields.io/badge/-Xiaoyu's CV-299DE7?logo=gitbook&logoColor=white"></a>
 
 # Research Interests
 My goal is to develop an intelligent decision-making system that possesses optimality, generalizability and robustness. To achieve this, I primarily focus on:
