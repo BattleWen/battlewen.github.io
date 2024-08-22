@@ -25,7 +25,7 @@ author_profile: true
   
 <b>Xiaoyu Wen</b>, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang
 
-<em>JAIR(under review)</em>, 2024
+<em>JAIR</em>, 2024
 
 <a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">pdf</a> | <a href="https://github.com/BattleWen/RO2O">code</a>
 </div>
