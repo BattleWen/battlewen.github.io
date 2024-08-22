@@ -26,6 +26,8 @@ My goal is to develop an intelligent decision-making system that possesses optim
  Feel free to contact me with <u>email</u> (<a href="wenxiaoyu@mail.nwpu.edu.cn">wenxiaoyu@mail.nwpu.edu.cn</a>) or <u>wechat</u> (BattleWen_).
 
 # &#128293; News
+<strong>[May. 2024]</strong> &#127881; Our paper ([*RO2O*](https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link)) has been accepted by JAIR.
+
 <strong>[May. 2024]</strong> &#127881; Our paper ([*IGDF*](https://arxiv.org/pdf/2405.06192)) has been accepted by ICML 2024.
 
 <strong>[Jul. 2022]</strong> &#127881; I received my Bachelor's degree from Harbin Engineering University.
