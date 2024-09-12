@@ -21,7 +21,7 @@ author_profile: true
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/RO2O.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-<strong><a href="[https://arxiv.org/pdf/2309.16973](https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link)">Towards robust offline-to-online reinforcement learning via uncertainty and smoothness</a></strong>
+<strong><a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">Towards robust offline-to-online reinforcement learning via uncertainty and smoothness</a></strong>
   
 <b>Xiaoyu Wen</b>, Xudong Yu, Rui Yang, Chenjia Bai, Zhen Wang
 
