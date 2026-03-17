@@ -41,7 +41,7 @@ redirect_from:
 
 **Xiaoyu Wen\***, Zhida He\*, Han Qi, Ziyu Wan, Zhongtian Ma, Ying Wen, Tianhang Zheng, Xingcheng Xu, Chaochao Lu and Qiaosheng Zhang&dagger;
 
-arxiv preprint
+arxiv preprint, 2026
 
 [[**Paper**]](https://arxiv.org/pdf/2602.01539) [[**Code**]](https://github.com/AI45Lab/MAGIC)
 </div>
@@ -54,7 +54,7 @@ arxiv preprint
 
 Zhongan Wang\*, **Xiaoyu Wen\***, Lingxiao Du, Kun Li, zhiliang wu, Xingcheng Xu, Qiaosheng Zhang&dagger;, Chaochao Lu, Hehe Fan&dagger;
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
 [[**Paper**]](https://openreview.net/pdf?id=1q5ga1uL9I) [[**Page**]](https://zhongan-wang.github.io/VAST/)
 </div>
@@ -115,7 +115,7 @@ Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
 
 Shanghai Artificial Intelligence Laboratory
 
-arxiv preprint
+arxiv preprint, 2025
 
 [[**Paper**]](https://arxiv.org/pdf/2507.18576)
 </div>
@@ -160,12 +160,12 @@ Pattern Recognition (PR), 112177, 2025
 
 - Conference reviewer: NeurIPS, ICLR, ICML, ECAI, AAMAS.
 
+<div style='margin-top: 30pt'></div>
+
 <h2>🏅 Honors & Awards</h2>
 - <em>2025.03</em>: &#127881; Outstanding Master’s Graduate & thesis
 - <em>2024.12</em>: &#127881; National Scholarship
 
 <div style='margin-top: 30pt'></div>
-
-<!-- <h2 id="-visitor-map">Visitor Map</h2> -->
 
 {% include visitor-map.html %}

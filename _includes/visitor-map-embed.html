@@ -1,12 +1,14 @@
+{% assign flagcounter_id = site.flagcounter_id | default: "5PHe" %}
+
 <div style="display: grid; grid-template-columns: minmax(0, 1.72fr) minmax(135px, 0.38fr); gap: 12px; align-items: start;">
   <div style="background: #ffffff; border: 1px solid #d7dde6; border-radius: 16px; padding: 10px; margin-left: 36px;">
     <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #667085; margin-bottom: 12px;">
       World Map
     </div>
-    <a title="Visitor map" href="https://info.flagcounter.com/5PHe" target="_blank" rel="noopener noreferrer">
+    <a title="Visitor map" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
       <img
         title="Visitor map"
-        src="https://s01.flagcounter.com/map/5PHe/size_l/txt_243447/border_D8DEE9/pageviews_0/viewers_3/flags_0/"
+        src="https://s01.flagcounter.com/map/{{ flagcounter_id }}/size_l/txt_243447/border_D8DEE9/pageviews_0/viewers_3/flags_0/"
         alt="Visitor map"
         style="display: block; width: 100%; height: auto; border-radius: 10px;"
       />
@@ -17,10 +19,10 @@
     <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #667085; margin-bottom: 12px;">
       Top Countries
     </div>
-    <a title="Top countries" href="https://info.flagcounter.com/aYiI" target="_blank" rel="noopener noreferrer">
+    <a title="Top countries" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
       <img
         title="Top countries"
-        src="https://s01.flagcounter.com/count/aYiI/bg_FFFFFF/txt_243447/border_D8DEE9/columns_1/maxflags_8/viewers_3/labels_0/pageviews_0/flags_0/percent_0/"
+        src="https://s01.flagcounter.com/count/{{ flagcounter_id }}/bg_FFFFFF/txt_243447/border_D8DEE9/columns_1/maxflags_8/viewers_3/labels_0/pageviews_0/flags_0/percent_0/"
         alt="Top countries"
         style="display: block; width: 100%; max-width: 135px; height: auto; margin: 0 auto; border-radius: 10px;"
       />
