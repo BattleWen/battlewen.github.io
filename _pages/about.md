@@ -12,7 +12,7 @@ redirect_from:
 
 <div style='font-size:14pt; text-align:justify; font-family:Georgia; margin-top: 20pt'>
 
-<h2 id="about-me">About Me</h2>
+<h2 id="about-me">🥳 About Me</h2>
 
 <div style='width: 95%; vertical-align: middle; margin-left: 3%; font-size: 12pt; line-height: 1.7;'>
   I am a Ph.D. student at the School of Artificial Intelligence (SAI), Shanghai Jiao Tong University, supervised by <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a> and <a href="https://yingwen.io">Ying Wen</a>. My research interests lie in Reinforcement Learning (RL) and Large Language Model (LLM) safety alignment.
@@ -21,7 +21,7 @@ redirect_from:
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-news">News</h2>
+<h2 id="-news">🔥 News</h2>
 - <p style='text-align:justify'><i>[Feb. 2026]</i>: &#127881; Our paper (<a href="https://zhongan-wang.github.io/VAST/"><em>VAST</em></a>) has been accepted by <span style="color: red;">CVPR 2026</span>.</p>
 - <p style='text-align:justify'><i>[Sep. 2025]</i>: &#127881; Our paper (<a href="https://openreview.net/pdf?id=ur295YVtmt"><em>ReMA</em></a>) has been accepted by <span style="color: red;">NeurIPS 2025</span>.</p>
 - <p style='text-align:justify'><i>[Aug. 2024]</i>: &#127881; Our paper (<a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link"><em>RO2O</em></a>) has been accepted by <span style="color: red;">JAIR</span>.</p>
@@ -32,7 +32,7 @@ redirect_from:
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-publications">Selected Publications</h2>
+<h2 id="-publications">📖 Selected Publications</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/magic.pdf' alt="MAGIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -106,7 +106,7 @@ Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-Project">Selected Project</h2>
+<h2 id="-Project">🚀 Selected Project</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/safework-r1.png' alt="SafeWork-R1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,7 +123,7 @@ arxiv preprint
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-Project">Other Papers</h2>
+<h2 id="-Project">📄 Other Papers</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/magic.pdf' alt="MAGIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -140,7 +140,7 @@ Pattern Recognition (PR), 112177, 2025
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-educations">Educations</h2>
+<h2 id="-educations">🎓 Educations</h2>
 
 - <em>[Present]</em>: Ph.D. in Artificial Intelligence, Shanghai Jiao Tong University, supervised by Prof. <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a>.
 - <em>[Sep. 2022 - Mar. 2025]</em>: M.S. in Artificial Intelligence, Northwestern Polytechnical University, supervised by Prof. <a href="https://iopen.nwpu.edu.cn/info/1329/1369.htm">Zhen Wang</a>.
@@ -148,7 +148,7 @@ Pattern Recognition (PR), 112177, 2025
 
 <div style='margin-top: 30pt'></div>
 
-<h2 id="-internships">Internships</h2>
+<h2 id="-internships">🏢 Internships</h2>
 
 - <em>[Feb. 2025 - Present]</em>: Shanghai AI Lab, LLM\Agent safety alignment.
 - <em>[Nov. 2023 - Apr. 2024]</em>: Shanghai AI Lab, worked closely with <a href="https://baichenjia.github.io/">Chenjia Bai</a> on reinforcement learning research.
@@ -156,11 +156,11 @@ Pattern Recognition (PR), 112177, 2025
 
 <div style='margin-top: 30pt'></div>
 
-<h2>Academic Services</h2>
+<h2>🤝 Academic Services</h2>
 
 - Conference reviewer: NeurIPS, ICLR, ICML, ECAI, AAMAS.
 
-<h2>Honors & Awards</h2>
+<h2>🏅 Honors & Awards</h2>
 - <em>2025.03</em>: &#127881; Outstanding Master’s Graduate & thesis
 - <em>2024.12</em>: &#127881; National Scholarship
 
