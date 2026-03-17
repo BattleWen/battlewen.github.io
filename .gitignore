@@ -1,0 +1,11 @@
+_site/
+
+.idea/vcs.xml
+.idea/deployment.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/JiakangYuan.github.io.iml
+.idea/misc.xml
+.idea/modules.xml
+push.sh
+.DS_Store
