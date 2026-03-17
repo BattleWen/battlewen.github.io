@@ -34,7 +34,7 @@ redirect_from:
 
 <h2 id="-publications">📖 Selected Publications</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/magic.pdf' alt="MAGIC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/magic.png' alt="MAGIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/pdf/2602.01539)
@@ -47,7 +47,7 @@ arxiv preprint
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/VAST.pdf' alt="VAST" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/VAST.png' alt="VAST" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning]()
@@ -125,7 +125,7 @@ arxiv preprint
 
 <h2 id="-Project">📄 Other Papers</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/magic.pdf' alt="MAGIC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.png' alt="MAGIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal Consistent Multi-View Perception for Robust Embodied Manipulation](https://www.sciencedirect.com/science/article/pii/S0031320325008386)
@@ -144,7 +144,7 @@ Pattern Recognition (PR), 112177, 2025
 
 - <em>[Present]</em>: Ph.D. in Artificial Intelligence, Shanghai Jiao Tong University, supervised by Prof. <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a>.
 - <em>[Sep. 2022 - Mar. 2025]</em>: M.S. in Artificial Intelligence, Northwestern Polytechnical University, supervised by Prof. <a href="https://iopen.nwpu.edu.cn/info/1329/1369.htm">Zhen Wang</a>.
-- <em>[Sep. 2018 - Jun. 2022]</em>: B.E. in Computer Science, Harbin Engineering University, supervised to Prof. <a href="https://faculty.hrbeu.edu.cn/yangdongmei/zh_CN/index.htm">Dongmei Yang</a>.
+- <em>[Sep. 2018 - Jun. 2022]</em>: B.E. in Computer Science, Harbin Engineering University, supervised by Prof. <a href="https://faculty.hrbeu.edu.cn/yangdongmei/zh_CN/index.htm">Dongmei Yang</a>.
 
 <div style='margin-top: 30pt'></div>
 
