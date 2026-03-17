@@ -151,7 +151,7 @@ Pattern Recognition (PR), 112177, 2025
 <h2 id="-internships">🏢 Internships</h2>
 
 - <em>[Feb. 2025 - Present]</em>: Shanghai AI Lab, LLM\Agent safety alignment.
-- <em>[Nov. 2023 - Apr. 2024]</em>: Shanghai AI Lab, worked closely with <a href="https://baichenjia.github.io/">Chenjia Bai</a> on reinforcement learning research.
+- <em>[Nov. 2023 - Apr. 2024]</em>: Shanghai AI Lab, worked closely with Dr. <a href="https://baichenjia.github.io/">Chenjia Bai</a> on reinforcement learning research.
 - <em>[May. 2024 - Sep. 2024]</em>: Tencent AI Platform Department, focused on anthropomorphic game AI bots via reinforcement learning.
 
 <div style='margin-top: 30pt'></div>
