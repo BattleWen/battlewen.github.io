@@ -94,6 +94,12 @@
     flex-wrap: wrap;
 }
 
+.paper-link-star {
+    display: inline-flex;
+    align-items: center;
+    margin-left: -0.15rem;
+}
+
 .github-star-badge {
     display: inline-flex;
     align-items: center;
