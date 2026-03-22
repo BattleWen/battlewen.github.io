@@ -1,0 +1,7 @@
+{% assign repo_url = include.url %}
+{% if repo_url == nil or repo_url == "" %}
+  {% assign repo_url = "https://github.com/" | append: include.repo %}
+{% endif %}
+<a href="{{ repo_url }}">
+  <img src="https://img.shields.io/github/stars/{{ include.repo }}?style=flat-square&label=Stars&logo=github" alt="GitHub stars for {{ include.repo }}" style="vertical-align: middle;">
+</a>
