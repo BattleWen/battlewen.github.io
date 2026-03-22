@@ -87,6 +87,28 @@
 
 }
 
+.paper-links {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    flex-wrap: wrap;
+}
+
+.github-star-badge {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+}
+
+.github-star-badge__img {
+    width: auto;
+    max-width: none;
+    margin: 0;
+    box-shadow: none;
+    border-radius: 0;
+    vertical-align: middle;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

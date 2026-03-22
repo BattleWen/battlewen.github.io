@@ -43,7 +43,7 @@ redirect_from:
 
 arxiv preprint, 2026
 
-[[**Paper**]](https://arxiv.org/pdf/2602.01539) [[**Code**]](https://github.com/AI45Lab/MAGIC) {% include github-star-badge.html repo="AI45Lab/MAGIC" %}
+<p class="paper-links"><a href="https://arxiv.org/pdf/2602.01539">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/MAGIC">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="AI45Lab/MAGIC" %}</p>
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Ziyu Wan\*; Yunxiang Li\*; **Xiaoyu Wen\***; Yan Song; Hanjing Wang; Linyi Yang;
 
 Neural Information Processing Systems (NeurIPS), 2025
 
-[[**Paper**]](https://openreview.net/pdf?id=ur295YVtmt) [[**Code**]](https://github.com/ziyuwan/ReMA-public) {% include github-star-badge.html repo="ziyuwan/ReMA-public" %}
+<p class="paper-links"><a href="https://openreview.net/pdf?id=ur295YVtmt">[<strong>Paper</strong>]</a> <a href="https://github.com/ziyuwan/ReMA-public">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="ziyuwan/ReMA-public" %}</p>
 </div>
 </div>
 
@@ -82,7 +82,7 @@ Neural Information Processing Systems (NeurIPS), 2025
 
 International Conference on Machine Learning (ICML), 2024
 
-[[**Paper**]](https://arxiv.org/pdf/2405.06192) [[**Code**]](https://github.com/BattleWen/IGDF) {% include github-star-badge.html repo="BattleWen/IGDF" %}
+<p class="paper-links"><a href="https://arxiv.org/pdf/2405.06192">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/IGDF">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="BattleWen/IGDF" %}</p>
 </div>
 </div>
 
@@ -95,7 +95,7 @@ International Conference on Machine Learning (ICML), 2024
 
 Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
 
-[[**Paper**]](https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link) [[**Code**]](https://github.com/BattleWen/RO2O) {% include github-star-badge.html repo="BattleWen/RO2O" %}
+<p class="paper-links"><a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/RO2O">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="BattleWen/RO2O" %}</p>
 </div>
 </div>
 
