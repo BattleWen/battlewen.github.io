@@ -142,7 +142,7 @@ Pattern Recognition (PR), 112177, 2025
 
 <h2 id="-educations">🎓 Educations</h2>
 
-- <em>[Sep. 2026 - Present]</em>: Ph.D. in Artificial Intelligence, Shanghai Jiao Tong University, supervised by Prof. <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a>.
+- <em>[Sep. 2025 - Present]</em>: Ph.D. in Artificial Intelligence, Shanghai Jiao Tong University, supervised by Prof. <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a>.
 - <em>[Sep. 2022 - Mar. 2025]</em>: M.S. in Artificial Intelligence, Northwestern Polytechnical University, supervised by Prof. <a href="https://iopen.nwpu.edu.cn/info/1329/1369.htm">Zhen Wang</a>.
 - <em>[Sep. 2018 - Jun. 2022]</em>: B.E. in Computer Science, Harbin Engineering University, supervised by Prof. <a href="https://faculty.hrbeu.edu.cn/yangdongmei/zh_CN/index.htm">Dongmei Yang</a>.
 

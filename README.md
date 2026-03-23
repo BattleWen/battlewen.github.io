@@ -8,8 +8,8 @@ Run the site locally:
 
 ```bash
 cd /Users/battlewen/Homepage/battlewen.github.io
-export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"
-bundle _2.2.22_ exec jekyll serve --livereload --host 127.0.0.1 --port 4000
+chmod +x run_server.sh
+./run_server.sh
 ```
 
 Then open:
@@ -57,3 +57,13 @@ bundle _2.2.22_ exec jekyll build
 ```
 
 The generated files will be written to `_site/`.
+
+## Notes
+
+If you prefer running the command manually, `run_server.sh` is equivalent to:
+
+```bash
+cd /Users/battlewen/Homepage/battlewen.github.io
+export PATH="$HOME/.gem/ruby/2.6.0/bin:$PATH"
+bundle _2.2.22_ exec jekyll serve --livereload --host 127.0.0.1 --port 4000
+```

@@ -97,7 +97,8 @@
 .paper-link-star {
     display: inline-flex;
     align-items: center;
-    margin-left: -0.15rem;
+    margin-left: 0.15rem;
+    white-space: nowrap;
 }
 
 .github-star-badge {
@@ -111,7 +112,7 @@
     max-width: none;
     margin: 0;
     box-shadow: none;
-    border-radius: 0;
+    border-radius: 999px;
     vertical-align: middle;
 }
 
