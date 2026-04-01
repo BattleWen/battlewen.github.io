@@ -50,13 +50,13 @@ arxiv preprint, 2026
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/VAST.png' alt="VAST" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning]()
+[VAST: Video Ability-Stratified Taxonomy for Data-Efficient Video Reasoning](https://openreview.net/pdf?id=1q5ga1uL9I)
 
 Zhongan Wang\*, **Xiaoyu Wen\***, Lingxiao Du, Kun Li, zhiliang wu, Xingcheng Xu, Qiaosheng Zhang&dagger;, Chaochao Lu, Hehe Fan&dagger;
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026
 
-[[**Paper**]](https://openreview.net/pdf?id=1q5ga1uL9I) [[**Page**]](https://zhongan-wang.github.io/VAST/)
+<p class="paper-links"><a href="https://openreview.net/pdf?id=1q5ga1uL9I">[<strong>Paper</strong>]</a> <a href="https://zhongan-wang.github.io/VAST/">[<strong>Page</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-a"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-A</span></span></p>
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Ziyu Wan\*; Yunxiang Li\*; **Xiaoyu Wen\***; Yan Song; Hanjing Wang; Linyi Yang;
 
 Neural Information Processing Systems (NeurIPS), 2025
 
-<p class="paper-links"><a href="https://openreview.net/pdf?id=ur295YVtmt">[<strong>Paper</strong>]</a> <a href="https://github.com/ziyuwan/ReMA-public">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="ziyuwan/ReMA-public" %}</p>
+<p class="paper-links"><a href="https://openreview.net/pdf?id=ur295YVtmt">[<strong>Paper</strong>]</a> <a href="https://github.com/ziyuwan/ReMA-public">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-a"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-A</span></span> {% include github-star-badge.html repo="ziyuwan/ReMA-public" %}</p>
 </div>
 </div>
 
@@ -82,7 +82,7 @@ Neural Information Processing Systems (NeurIPS), 2025
 
 International Conference on Machine Learning (ICML), 2024
 
-<p class="paper-links"><a href="https://arxiv.org/pdf/2405.06192">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/IGDF">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="BattleWen/IGDF" %}</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2405.06192">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/IGDF">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-a"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-A</span></span> {% include github-star-badge.html repo="BattleWen/IGDF" %}</p>
 </div>
 </div>
 
@@ -95,7 +95,7 @@ International Conference on Machine Learning (ICML), 2024
 
 Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
 
-<p class="paper-links"><a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/RO2O">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="BattleWen/RO2O" %}</p>
+<p class="paper-links"><a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/RO2O">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-b"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-B</span></span> {% include github-star-badge.html repo="BattleWen/RO2O" %}</p>
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Haoyuan Chen, Rushuai Yang, Junjie Zhang, **Xiaoyu Wen**, Yi Chen, Dengxiu Yu, C
 
 Pattern Recognition (PR), 112177, 2025
 
-[[**Paper**]](https://www.sciencedirect.com/science/article/pii/S0031320325008386)
+<p class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325008386">[<strong>Paper</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-b"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-B</span><span class="paper-tier paper-tier--cas-1"><i class="fas fa-layer-group" aria-hidden="true"></i> CAS Q1</span></span></p>
 </div>
 </div>
 

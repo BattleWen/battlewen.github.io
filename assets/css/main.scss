@@ -101,6 +101,60 @@
     white-space: nowrap;
 }
 
+.paper-tier-group {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.paper-tier {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.12rem 0.68rem;
+    border-radius: 999px;
+    font-size: 0.78em;
+    font-weight: 700;
+    line-height: 1.45;
+    white-space: nowrap;
+    border: 1px solid transparent;
+}
+
+.paper-tier i {
+    font-size: 0.88em;
+}
+
+.paper-tier--ccf-a {
+    color: #8a4b00;
+    background: #fff1d6;
+    border-color: #f3c97a;
+}
+
+.paper-tier--ccf-b {
+    color: #0f4c5c;
+    background: #dff4fa;
+    border-color: #90d0e1;
+}
+
+.paper-tier--ccf-c {
+    color: #5a356d;
+    background: #f2e4fb;
+    border-color: #d1a8ea;
+}
+
+.paper-tier--cas-1 {
+    color: #0f5a39;
+    background: #def7e8;
+    border-color: #95d6ae;
+}
+
+.paper-tier--cas-2 {
+    color: #7a3e14;
+    background: #fde7d7;
+    border-color: #efb78c;
+}
+
 .github-star-badge {
     display: inline-flex;
     align-items: center;
