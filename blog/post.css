@@ -167,6 +167,11 @@ a {
   line-height: 1.85;
 }
 
+.article-section strong {
+  color: var(--ink);
+  font-weight: 700;
+}
+
 .article-section p:last-child,
 .article-list li:last-child {
   margin-bottom: 0;
