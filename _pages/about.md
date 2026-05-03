@@ -34,14 +34,14 @@ redirect_from:
 
 <h2 id="-publications">📖 Selected Publications</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/magic.png' alt="MAGIC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/magic.png' alt="MAGIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety](https://arxiv.org/pdf/2602.01539)
 
 **Xiaoyu Wen\***, Zhida He\*, Han Qi, Ziyu Wan, Zhongtian Ma, Ying Wen, Tianhang Zheng, Xingcheng Xu, Chaochao Lu and Qiaosheng Zhang&dagger;
 
-arxiv preprint, 2026
+International Conference on Machine Learning (ICML), 2026
 
 <p class="paper-links"><a href="https://arxiv.org/pdf/2602.01539">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/MAGIC">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="AI45Lab/MAGIC" %}</p>
 </div>
