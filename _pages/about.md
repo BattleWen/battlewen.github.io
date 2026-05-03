@@ -22,6 +22,7 @@ redirect_from:
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-news">🔥 News</h2>
+- <p style='text-align:justify'><i>[May. 2026]</i>: &#127881; Two papers (<a href="https://arxiv.org/pdf/2602.01539"><em>MAGIC</em></a>, <a href="https://openreview.net/pdf?id=pTz80QaxqD"><em>PIA</em></a>) have been accepted by <span style="color: red;">ICML 2026</span>.</p>
 - <p style='text-align:justify'><i>[Feb. 2026]</i>: &#127881; Our paper (<a href="https://zhongan-wang.github.io/VAST/"><em>VAST</em></a>) has been accepted by <span style="color: red;">CVPR 2026</span>.</p>
 - <p style='text-align:justify'><i>[Sep. 2025]</i>: &#127881; Our paper (<a href="https://openreview.net/pdf?id=ur295YVtmt"><em>ReMA</em></a>) has been accepted by <span style="color: red;">NeurIPS 2025</span>.</p>
 - <p style='text-align:justify'><i>[Aug. 2024]</i>: &#127881; Our paper (<a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link"><em>RO2O</em></a>) has been accepted by <span style="color: red;">JAIR</span>.</p>
@@ -43,7 +44,20 @@ redirect_from:
 
 International Conference on Machine Learning (ICML), 2026
 
-<p class="paper-links"><a href="https://arxiv.org/pdf/2602.01539">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/MAGIC">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="AI45Lab/MAGIC" %}</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2602.01539">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/MAGIC">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-a"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-A</span></span> {% include github-star-badge.html repo="AI45Lab/MAGIC" %}</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pia.png' alt="PIA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Disentangling Intent from Role: Adversarial Self-Play for Persona-Invariant Safety Alignment](https://openreview.net/pdf?id=pTz80QaxqD)
+
+Jiajia Li\*, **Xiaoyu Wen\***, Shuyue Hu, Qiaosheng Zhang&dagger; and Zhen Wang&dagger;;
+
+International Conference on Machine Learning (ICML), 2026
+
+<p class="paper-links"><a href="https://openreview.net/pdf?id=pTz80QaxqD">[<strong>Paper</strong>]</a> <a href="https://github.com/JiajiaLi-1130/PIA">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-a"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-A</span></span> {% include github-star-badge.html repo="JiajiaLi-1130/PIA" %}</p>
 </div>
 </div>
 
