@@ -186,6 +186,7 @@ Pattern Recognition (PR), 112177, 2025
 <h2>🤝 Academic Services</h2>
 
 - Conference reviewer: NeurIPS, ICLR, ICML, ECAI, AAMAS.
+- ICML2026 gold reviewer
 
 <div style='margin-top: 30pt'></div>
 
