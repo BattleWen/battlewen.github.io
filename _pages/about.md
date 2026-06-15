@@ -195,5 +195,3 @@ Pattern Recognition (PR), 112177, 2025
 - <em>2024.12</em>: &#127881; National Scholarship
 
 <div style='margin-top: 30pt'></div>
-
-{% include visitor-map.html %}
