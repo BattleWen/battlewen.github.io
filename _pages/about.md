@@ -120,7 +120,7 @@ International Conference on Machine Learning (ICML), 2024
 
 **Xiaoyu Wen\***, Xudong Yu\*, Rui Yang, Chenjia Bai&dagger;, Zhen Wang&dagger;
 
-Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
+AAAI-24 Journal Track; Journal of Artificial Intelligence Research (JAIR) 81, 481-509, 2024
 
 <p class="paper-links"><a href="https://drive.google.com/file/d/128J7EMpVGOgl6VlV2CJA3lumMpotgoHw/view?usp=drive_link">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/RO2O">[<strong>Code</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-b"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-B</span></span> {% include github-star-badge.html repo="BattleWen/RO2O" %}</p>
 </div>
