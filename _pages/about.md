@@ -177,15 +177,15 @@ Pattern Recognition (PR), 112177, 2025
 
 <h2 id="-internships">🏢 Internships</h2>
 
-- <em>[Feb. 2025 - Present]</em>: Shanghai AI Lab, LLM\Agent safety alignment.
-- <em>[Nov. 2023 - Apr. 2024]</em>: Shanghai AI Lab, worked closely with Dr. <a href="https://baichenjia.github.io/">Chenjia Bai</a> on reinforcement learning research.
+- <em>[Feb. 2025 - Present]</em>: Shanghai AI Lab, worked closely with Dr. <a href="https://qiaoshengzhang.github.io">Qiaosheng Zhang</a> and Dr. <a href="https://causallu.com">Chaochao Lu</a> on LLM\Agent safety alignment.
 - <em>[May. 2024 - Sep. 2024]</em>: Tencent AI Platform Department, focused on anthropomorphic game AI bots via reinforcement learning.
+- <em>[Nov. 2023 - Apr. 2024]</em>: Shanghai AI Lab, worked closely with Dr. <a href="https://baichenjia.github.io/">Chenjia Bai</a> on reinforcement learning research.
 
 <div style='margin-top: 30pt'></div>
 
 <h2>🤝 Academic Services</h2>
 
-- Conference reviewer: NeurIPS, ICLR, ICML, ECAI, AAMAS.
+- Conference reviewer: NeurIPS, ICLR, ICML, TMLR, ECAI, AAMAS.
 - ICML2026 gold reviewer
 
 <div style='margin-top: 30pt'></div>
