@@ -1,0 +1,45 @@
+{% if site.whos_amung_us_key and site.whos_amung_us_widget_id %}
+<style>
+  .visitor-map {
+    width: 70%;
+    margin-left: 3%;
+  }
+
+  .visitor-map__frame {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  }
+
+  .visitor-map__frame span {
+    max-width: 100%;
+  }
+
+  .visitor-map__frame img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<h2>🌍 Visitor Map</h2>
+
+<div class="visitor-map">
+  <div class="visitor-map__frame">
+    <script>
+      var _wau_opt = _wau_opt || { target: '_blank', fbase: true };
+      var _wau = _wau || [];
+      _wau.push([
+        'map',
+        '{{ site.whos_amung_us_key }}',
+        '{{ site.whos_amung_us_widget_id }}',
+        '560',
+        '280',
+        'natural',
+        'default-red'
+      ]);
+    </script>
+    <script id="_wau{{ site.whos_amung_us_widget_id }}" async src="https://waust.at/m.js"></script>
+  </div>
+</div>
+{% endif %}

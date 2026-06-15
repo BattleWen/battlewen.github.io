@@ -14,8 +14,9 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# GoatCounter analytics
-goatcounter_code         : "battlewen" # site code for https://battlewen.goatcounter.com
+# Visitor map analytics
+whos_amung_us_key        : "bwghio2026xw"
+whos_amung_us_widget_id  : "bwm"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
