@@ -1,16 +1,60 @@
 {% assign flagcounter_id = site.flagcounter_id | default: "5PHe" %}
+{% assign china_flag_src = "/assets/images/china-flag.svg" | relative_url %}
+
+<style>
+  .visitor-map-image-wrap,
+  .visitor-counter-image-wrap {
+    display: block;
+    position: relative;
+    line-height: 0;
+  }
+
+  .visitor-counter-image-wrap {
+    width: 100%;
+    max-width: 135px;
+    margin: 0 auto;
+  }
+
+  .visitor-map-taiwan-cover,
+  .visitor-counter-taiwan-cover {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    pointer-events: none;
+  }
+
+  .visitor-map-taiwan-cover {
+    left: 83.9%;
+    top: 38.5%;
+    width: 1.9%;
+    aspect-ratio: 3 / 2;
+  }
+
+  .visitor-counter-taiwan-cover {
+    left: 4.7%;
+    top: 80.0%;
+    width: 16%;
+    aspect-ratio: 16 / 11;
+  }
+</style>
 
 <div style="display: grid; grid-template-columns: minmax(0, 1.72fr) minmax(135px, 0.38fr); gap: 12px; align-items: start;">
   <div style="background: #ffffff; border: 1px solid #d7dde6; border-radius: 16px; padding: 10px; margin-left: 36px;">
     <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #667085; margin-bottom: 12px;">
       World Map
     </div>
-    <a title="Visitor map" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
+    <a class="visitor-map-image-wrap" title="Visitor map" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
       <img
         title="Visitor map"
         src="https://s01.flagcounter.com/map/{{ flagcounter_id }}/size_l/txt_243447/border_D8DEE9/pageviews_0/viewers_3/flags_0/"
         alt="Visitor map"
         style="display: block; width: 100%; height: auto; border-radius: 10px;"
+      />
+      <img
+        class="visitor-map-taiwan-cover"
+        src="{{ china_flag_src }}"
+        alt=""
+        aria-hidden="true"
       />
     </a>
   </div>
@@ -19,12 +63,18 @@
     <div style="font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #667085; margin-bottom: 12px;">
       Top Countries
     </div>
-    <a title="Top countries" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
+    <a class="visitor-counter-image-wrap" title="Top countries" href="https://info.flagcounter.com/{{ flagcounter_id }}" target="_blank" rel="noopener noreferrer">
       <img
         title="Top countries"
         src="https://s01.flagcounter.com/count/{{ flagcounter_id }}/bg_FFFFFF/txt_243447/border_D8DEE9/columns_1/maxflags_8/viewers_3/labels_0/pageviews_0/flags_0/percent_0/"
         alt="Top countries"
-        style="display: block; width: 100%; max-width: 135px; height: auto; margin: 0 auto; border-radius: 10px;"
+        style="display: block; width: 100%; height: auto; border-radius: 10px;"
+      />
+      <img
+        class="visitor-counter-taiwan-cover"
+        src="{{ china_flag_src }}"
+        alt=""
+        aria-hidden="true"
       />
     </a>
   </div>
