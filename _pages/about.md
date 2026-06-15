@@ -196,4 +196,4 @@ Pattern Recognition (PR), 112177, 2025
 
 <div style='margin-top: 30pt'></div>
 
-{% include visitor-map.html %}
+<!-- {% include visitor-map.html %} -->
