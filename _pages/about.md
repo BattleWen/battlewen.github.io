@@ -144,7 +144,16 @@ Shanghai Artificial Intelligence Laboratory
 
 arxiv preprint, 2025
 
-[[**Paper**]](https://arxiv.org/pdf/2507.18576)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/intern-bio.png' alt="Intern-BioBreaker" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Early Warning of Emerging Biosecurity Risks in Frontier LLMs](https://arxiv.org/abs/2607.18056)
+
+Shanghai Artificial Intelligence Laboratory
+
+arxiv preprint, 2026
+
+[[**Paper**]](https://arxiv.org/abs/2607.18056)
 </div>
 </div>
 
