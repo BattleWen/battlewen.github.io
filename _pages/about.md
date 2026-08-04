@@ -143,6 +143,8 @@ AAAI-24 Journal Track; Journal of Artificial Intelligence Research (JAIR) 81, 48
 Shanghai Artificial Intelligence Laboratory
 
 arxiv preprint, 2025
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/intern-bio.png' alt="Intern-BioBreaker" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
