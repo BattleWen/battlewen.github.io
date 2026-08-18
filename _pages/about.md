@@ -35,6 +35,19 @@ redirect_from:
 
 <h2 id="-publications">📖 Selected Publications</h2>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/JailbreakSkill.png' alt="JailbreakSkill" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JailbreakSkill: Scaling Automated Red-Teaming with Reusable and Ever-Evolving Skills](https://arxiv.org/abs/2608.16465)
+
+**Xiaoyu Wen\***, Jiajia Li\*, Zhida He, Peng Yu, Chenxu Wang, Han Qi, Ziyuan Zhou, Cheng Jin, Ying Wen, Xingcheng Xu, Shuyue Hu, Tianhang Zheng, Chaochao Lu, Qiaosheng Zhang&dagger;
+
+arxiv preprint, 2026
+
+<p class="paper-links"><a href="https://arxiv.org/abs/2608.16465">[<strong>Paper</strong>]</a> <a href="https://github.com/BattleWen/JailbreakSkill">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="BattleWen/JailbreakSkill" %}</p>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/trace.png' alt="TRACE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
