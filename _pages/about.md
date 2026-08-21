@@ -222,7 +222,7 @@ arxiv preprint, 2026
 
 <h2>🤝 Academic Services</h2>
 
-- Conference reviewer: NeurIPS, ICLR, ICML, TMLR, ECAI, AAMAS.
+- Conference reviewer: NeurIPS, ICLR, ICML, TMLR, AAAI, AAMAS.
 - ICML2026 gold reviewer
 
 <div style='margin-top: 30pt'></div>
