@@ -189,7 +189,7 @@ Pattern Recognition (PR), 112177, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/fair-asr.png' alt="Fair-ASR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/fair-asr.png' alt="Fair-ASR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets](https://arxiv.org/pdf/2608.17360)
