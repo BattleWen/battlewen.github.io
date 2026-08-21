@@ -32,6 +32,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fk767YoAAAAJ"
+  semanticscholar  : "https://www.semanticscholar.org/author/Xiaoyu-Wen/2296942411"
   email            : "wenxiaoyu@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -44,7 +45,7 @@ author:
   github           : "BattleWen"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "battlewen_"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
