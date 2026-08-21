@@ -176,7 +176,7 @@ arxiv preprint, 2026
 
 <h2 id="-Project">📄 Other Papers</h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.png' alt="MAGIC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/pr.png' alt="TMVP" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Temporal Consistent Multi-View Perception for Robust Embodied Manipulation](https://www.sciencedirect.com/science/article/pii/S0031320325008386)
@@ -186,6 +186,19 @@ Haoyuan Chen, Rushuai Yang, Junjie Zhang, **Xiaoyu Wen**, Yi Chen, Dengxiu Yu, C
 Pattern Recognition (PR), 112177, 2025
 
 <p class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S0031320325008386">[<strong>Paper</strong>]</a> <span class="paper-tier-group"><span class="paper-tier paper-tier--ccf-b"><i class="fas fa-capsules" aria-hidden="true"></i> CCF-B</span><span class="paper-tier paper-tier--cas-1"><i class="fas fa-layer-group" aria-hidden="true"></i> CAS Q1</span></span></p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR</div><img src='images/fair-asr.png' alt="Fair-ASR" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fair ASR: Re-Evaluating Black-Box Jailbreaks under Shared Target-Call Budgets](https://arxiv.org/pdf/2608.17360)
+
+Zhida He, **Xiaoyu Wen**, Han Qi, Ziyuan Zhou, Peng Yu, Jiajia Li, Chaochao Lu, Qiaosheng Zhang&dagger;
+
+arxiv preprint, 2026
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2608.17360">[<strong>Paper</strong>]</a> <a href="https://github.com/xsddys/Fair-ASR">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="xsddys/Fair-ASR" %}</p>
 </div>
 </div>
 
