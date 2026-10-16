@@ -202,6 +202,19 @@ arxiv preprint, 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv preprint</div><img src='images/agentsafeevo.png' alt="AgentSafeEvo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety](https://arxiv.org/pdf/2610.19422)
+
+Chenxu Wang, **Xiaoyu Wen**, Han Qi, Ziyuan Zhou, Chaochao Lu, Qiaosheng Zhang&dagger;
+
+arxiv preprint, 2026
+
+<p class="paper-links"><a href="https://arxiv.org/pdf/2610.19422">[<strong>Paper</strong>]</a> <a href="https://github.com/lalalamdbf/AgentSafeEvo">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="lalalamdbf/AgentSafeEvo" %}</p>
+</div>
+</div>
+
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-educations">🎓 Educations</h2>
