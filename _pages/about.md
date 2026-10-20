@@ -172,6 +172,19 @@ arxiv preprint, 2026
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/rex.png' alt="REX" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Architectural-Level Safety Control: Relocating Hazardous Knowledge into Removable Experts in Mixture-of-Experts Models](https://arxiv.org/abs/2610.25791)
+
+Shanghai Artificial Intelligence Laboratory
+
+arxiv preprint, 2026
+
+<p class="paper-links"><a href="https://arxiv.org/abs/2610.25791">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/REX">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="AI45Lab/REX" %}</p>
+</div>
+</div>
+
 <div style='margin-top: 30pt'></div>
 
 <h2 id="-Project">📄 Other Papers</h2>
