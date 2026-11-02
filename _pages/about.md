@@ -156,6 +156,8 @@ AAAI-24 Journal Track; Journal of Artificial Intelligence Research (JAIR) 81, 48
 Shanghai Artificial Intelligence Laboratory
 
 arxiv preprint, 2025
+
+[[**Paper**]](https://arxiv.org/pdf/2507.18576)
 </div>
 </div>
 
@@ -182,6 +184,19 @@ Shanghai Artificial Intelligence Laboratory
 arxiv preprint, 2026
 
 <p class="paper-links"><a href="https://arxiv.org/abs/2610.25791">[<strong>Paper</strong>]</a> <a href="https://github.com/AI45Lab/REX">[<strong>Code</strong>]</a> {% include github-star-badge.html repo="AI45Lab/REX" %}</p>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/safin1.5.png' alt="Safin-1.5" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement](https://arxiv.org/pdf/2610.40751)
+
+Shanghai Artificial Intelligence Laboratory
+
+arxiv preprint, 2026
+
+[[**Paper**]](https://arxiv.org/pdf/2610.40751)[[**Model**]](https://huggingface.co/AI45Research/Safin-1.5)
 </div>
 </div>
 
