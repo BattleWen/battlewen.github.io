@@ -187,7 +187,7 @@ arxiv preprint, 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/safin1.5.png' alt="Safin-1.5" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/Safin1.5.png' alt="Safin-1.5" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement](https://arxiv.org/pdf/2610.40751)
